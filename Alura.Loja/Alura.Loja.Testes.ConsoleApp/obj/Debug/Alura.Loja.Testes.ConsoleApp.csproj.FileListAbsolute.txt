@@ -134,3 +134,4 @@ C:\Users\heverton.reis\Documents\Curso-EntityFramework-Alura\Alura.Loja\Alura.Lo
 C:\Users\heverton.reis\Documents\Curso-EntityFramework-Alura\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
 C:\Users\heverton.reis\Documents\Curso-EntityFramework-Alura\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
 C:\Users\heverton.reis\Documents\Curso-EntityFramework-Alura\Alura.Loja\Alura.Loja.Testes.ConsoleApp\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\heverton.reis\Documents\Curso-EntityFramework-Alura\Alura.Loja\Alura.Loja.Testes.ConsoleApp\obj\Debug\Alura.Loja.Testes.ConsoleApp.csproj.CopyComplete

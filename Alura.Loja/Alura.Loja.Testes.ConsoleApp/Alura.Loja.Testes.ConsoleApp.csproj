@@ -169,7 +169,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Cliente.cs" />
     <Compile Include="Compra.cs" />
+    <Compile Include="Endereco.cs" />
     <Compile Include="IProdutoDAO.cs" />
     <Compile Include="LojaContext.cs" />
     <Compile Include="Migrations\20220411184257_Inicial.cs" />
@@ -184,12 +186,22 @@
     <Compile Include="Migrations\20220411191923_Compra.designer.cs">
       <DependentUpon>20220411191923_Compra.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20220412142724_Promocao.cs" />
+    <Compile Include="Migrations\20220412142724_Promocao.designer.cs">
+      <DependentUpon>20220412142724_Promocao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20220412183943_Cliente.cs" />
+    <Compile Include="Migrations\20220412183943_Cliente.designer.cs">
+      <DependentUpon>20220412183943_Cliente.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\LojaContextModelSnapshot.cs" />
     <Compile Include="Produto.cs" />
     <Content Include="ProdutoDAO.txt" />
     <Compile Include="ProdutoDAOEntity.cs" />
     <Compile Include="Program.cs" />
     <Content Include="Program2.txt" />
+    <Compile Include="Promocao.cs" />
+    <Compile Include="PromocaoProduto.cs" />
     <Compile Include="SqlLoggerProvider.cs" />
     <Content Include="Program.txt" />
     <Compile Include="Properties\AssemblyInfo.cs" />
