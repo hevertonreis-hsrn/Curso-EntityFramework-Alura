@@ -196,7 +196,7 @@
     </Compile>
     <Compile Include="Migrations\LojaContextModelSnapshot.cs" />
     <Compile Include="Produto.cs" />
-    <Content Include="ProdutoDAO.txt" />
+    <Compile Include="ProdutoDAO.cs" />
     <Compile Include="ProdutoDAOEntity.cs" />
     <Compile Include="Program.cs" />
     <Content Include="Program2.txt" />

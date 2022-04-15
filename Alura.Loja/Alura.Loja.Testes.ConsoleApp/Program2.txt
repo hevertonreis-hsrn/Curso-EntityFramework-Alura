@@ -10,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace Alura.Loja.Testes.ConsoleApp
 {
-    class Program2
+    class Program
     {
         static void Main(string[] args)
         {
@@ -33,13 +33,13 @@ namespace Alura.Loja.Testes.ConsoleApp
                 {
                     Nome = "Desinfetante",
                     Categoria = "Limpeza",
-                    Preco = 2.99
+                    PrecoUnitario = 2.99
                 };
                 contexto.Produtos.Add(novoProduto);
 
                 ExibeEntries(contexto.ChangeTracker.Entries());
 
-                contexto.Produtos.Remove(novoProduto);
+                //contexto.Produtos.Remove(novoProduto);
 
                 //var p1 = produtos.Last();
                 //contexto.Produtos.Remove(p1);
